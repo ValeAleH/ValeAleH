@@ -1,8 +1,8 @@
 # **Hola a todos! Yo soy Valeria** ✨
 ![enter image description here](https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif)
 ***Mi nombre es Valeria Alejandra Hoyos Tovar, futura ingeniera mecatrónica👩‍💻 
-Tengo 18 años 
-Tarijeña
+-Tengo 18 años 
+-Tarijeña
 Scout de corazón ⚜
 Mi lenguaje de programación...el ritmo*** 
 
